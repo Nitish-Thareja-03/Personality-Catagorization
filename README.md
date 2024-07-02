@@ -1,5 +1,6 @@
 # Personality Catagorization
 
 The Big Five Personality classification system, also known as the Five-Factor Model, is a widely accepted framework for describing human personality. The five factors are Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism, often abbreviated as OCEAN or CANOE.
+
 This project aims to explore using the K-means clustering algorithm to classify individuals based on their personality traits according to the Big Five Personality classification system. The project will utilize data from standardized personality assessments such as the NEO Personality Inventory to collect personality scores for a group of participants. The collected data will be preprocessed and converted into a matrix where each row represents a person and each column represents one of the five personality factors. The K-means clustering algorithm will be applied to the matrix to identify patterns and similarities in personality traits among the participants. 
 The project will focus on determining the optimal number of clusters, examining the characteristics of each cluster, and interpreting the results. The project aims to provide insights into how K-means clustering can be used as a tool to understand personality traits and identify commonalities among individuals
